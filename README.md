@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Fernando Horita Siratuti e sou estudante de Engenharia da Computação.</h2>
+<h2 align="left">Olá 👋! Meu nome é Fernando Horita Siratuti e sou estudante de Engenharia da Computação no CEFET-MG.</h2>
 
 ###
 
