@@ -50,4 +50,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fernando-horita-siratuti/fernando-horita-siratuti/output/snake.svg" alt="Snake animation" />
+<img src="https://github-readme-stats.vercel.app/api?username=fernando-horita-siratuti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
