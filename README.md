@@ -50,4 +50,4 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/fernando-horita-siratuti/fernando-horita-siratuti/output/snake-dark.svg)
+<img src="https://raw.githubusercontent.com/fernando-horita-siratuti/fernando-horita-siratuti/output/snake.svg" alt="Snake animation" />
