@@ -6,7 +6,7 @@ Currently studying Computer Engineering at CEFET-MG
 
 * ✉️  You can contact me at [siratutifernando@gmail.com](mailto:siratutifernando@gmail.com)
 
-### Skills
+### Skills 💻
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
@@ -66,7 +66,7 @@ Currently studying Computer Engineering at CEFET-MG
   </a>
 </p>
 
-### Socials
+### Socials 📱
 
 <p align="left">
   <a href="https://discord.com/users/siratuti" target="_blank" rel="noreferrer">
@@ -115,7 +115,7 @@ Currently studying Computer Engineering at CEFET-MG
   </a>
 </p>
 
-### Badges
+### Badges 🏅
 
 <div align="center">
   <img
