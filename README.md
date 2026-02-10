@@ -116,20 +116,6 @@ Currently studying Computer Engineering at CEFET-MG
   </a>
 </p>
 
-### Badges 🏅
-
-<div align="center">
-  <img
-    width="49%"
-    height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=fernando-horita-siratuti&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"
-    alt="Fernando Horita Siratuti github stats" />
-  <img
-    width="41%"
-    height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-horita-siratuti&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernando-horita-siratuti/fernando-horita-siratuti/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernando-horita-siratuti/fernando-horita-siratuti/output/github-contribution-grid-snake.svg">
